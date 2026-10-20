@@ -10,5 +10,30 @@
     "name": "Pencacah",
     "version": "1.0.0",
     "url": "https://raw.githubusercontent.com/naufals-lab/3D-Viewer/refs/heads/main/Models/Alat%20Pencacah.glb"
-  }
+  },
+    {
+    "id": "3",
+    "name": "Monitor Kualitas Air",
+    "version": "1.0.0",
+    "url": "https://raw.githubusercontent.com/naufals-lab/3D-Viewer/refs/heads/main/Models/Chamber%20H%20Type.glb"
+  },
+    {
+    "id": "1",
+    "name": "Chamber",
+    "version": "1.0.0",
+    "url": "https://raw.githubusercontent.com/naufals-lab/3D-Viewer/refs/heads/main/Models/Chamber%20H%20Type.glb"
+  },
+    {
+    "id": "1",
+    "name": "Chamber",
+    "version": "1.0.0",
+    "url": "https://raw.githubusercontent.com/naufals-lab/3D-Viewer/refs/heads/main/Models/Chamber%20H%20Type.glb"
+  },
+    {
+    "id": "1",
+    "name": "Chamber",
+    "version": "1.0.0",
+    "url": "https://raw.githubusercontent.com/naufals-lab/3D-Viewer/refs/heads/main/Models/Chamber%20H%20Type.glb"
+  },
 ]
+
