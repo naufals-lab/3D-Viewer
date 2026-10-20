@@ -2,11 +2,13 @@
   {
     "id": "1",
     "name": "Kursi Minimalis",
+    "version": "1.0.0",
     "url": "https://raw.githubusercontent.com/username/nama-repo/main/models/kursi-v2.glb"
   },
   {
     "id": "2",
     "name": "Meja Kerja Modern",
+    "version": "1.0.0",
     "url": "https://raw.githubusercontent.com/username/nama-repo/main/models/meja-kayu-jati.glb"
   }
 ]
