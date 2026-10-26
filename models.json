@@ -1,15 +1,15 @@
 [
   {
     "id": "1",
-    "name": "Chamber",
-    "version": "1.0.0",
-    "url": "https://raw.githubusercontent.com/naufals-lab/3D-Viewer/refs/heads/main/Models/Chamber%20H%20Type.glb"
+    "name": "Chamber Naufal v2",
+    "version": "2.0.0",
+    "url": "https://raw.githubusercontent.com/naufals-lab/3D-Viewer/refs/heads/main/Models/Desain%20Water%20Splitting%20Naufal%20V2.glb"
   },
   {
     "id": "2",
-    "name": "Pencacah",
+    "name": "Chamber",
     "version": "1.0.0",
-    "url": "https://raw.githubusercontent.com/naufals-lab/3D-Viewer/refs/heads/main/Models/Alat%20Pencacah.glb"
+    "url": "https://raw.githubusercontent.com/naufals-lab/3D-Viewer/refs/heads/main/Models/Chamber%20H%20Type.glb"
   },
   {
     "id": "3",
