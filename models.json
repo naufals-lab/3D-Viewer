@@ -1,39 +1,15 @@
 [
   {
     "id": "1",
-    "name": "Chamber Naufal v2",
+    "name": "Desain Sistem Pakar",
     "version": "2.0.0",
-    "url": "https://raw.githubusercontent.com/naufals-lab/3D-Viewer/refs/heads/main/Models/Desain%20Water%20Splitting%20Naufal%20V2.glb"
+    "url": "https://raw.githubusercontent.com/naufals-lab/3D-Viewer/refs/heads/main/Models/anfissabet.glb"
   },
   {
     "id": "2",
-    "name": "Chamber",
-    "version": "1.0.0",
-    "url": "https://raw.githubusercontent.com/naufals-lab/3D-Viewer/refs/heads/main/Models/Chamber%20H%20Type.glb"
-  },
-  {
-    "id": "3",
-    "name": "Monitor Kualitas Air",
-    "version": "1.0.0",
-    "url": "https://raw.githubusercontent.com/naufals-lab/3D-Viewer/refs/heads/main/Models/sabetcantik.glb"
-  },
-  {
-    "id": "4",
-    "name": "MQ-2",
-    "version": "1.0.0",
-    "url": "https://raw.githubusercontent.com/naufals-lab/3D-Viewer/refs/heads/main/Models/MQ-2.glb"
-  },
-  {
-    "id": "5",
-    "name": "MQ-135",
-    "version": "1.0.0",
-    "url": "https://raw.githubusercontent.com/naufals-lab/3D-Viewer/refs/heads/main/Models/MQ-135.glb"
-  },
-  {
-    "id": "6",
-    "name": "Baskom",
-    "version": "1.0.0",
-    "url": "https://raw.githubusercontent.com/naufals-lab/3D-Viewer/refs/heads/main/Models/cc0_-_plastic_wash_basin_2.glb"
+    "name": "Chamber Naufal v2",
+    "version": "2.0.0",
+    "url": "https://raw.githubusercontent.com/naufals-lab/3D-Viewer/refs/heads/main/Models/Desain%20Water%20Splitting%20Naufal%20V2.glb"
   }
 ]
 
